@@ -1,0 +1,12 @@
+body{
+	background-color: #eeeeee;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 14px;
+}
+
+.center {
+    margin: auto;
+	width: 900px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
